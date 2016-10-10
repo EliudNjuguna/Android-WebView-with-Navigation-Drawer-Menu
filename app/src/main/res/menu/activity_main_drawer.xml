@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/androidlogo"
+            android:title="Android" />
+        <item
+            android:id="@+id/nav_html"
+            android:icon="@drawable/html"
+            android:title="Html" />
+        <item
+            android:id="@+id/nav_php"
+            android:icon="@drawable/php"
+            android:title="PHP" />
+        <item
+            android:id="@+id/nav_phone"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Smartphone" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Health" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Money" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Login/Signup" />
+    </group>
+
+</menu>
